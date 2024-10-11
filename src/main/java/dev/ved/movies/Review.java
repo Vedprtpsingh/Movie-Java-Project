@@ -5,7 +5,7 @@ import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 import org.springframework.data.annotation.Id;
-@DataAmount(collection = "reviews")
+@DataAmount(collection= "reviews")
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
